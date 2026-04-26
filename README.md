@@ -2,4 +2,27 @@
 This is Fast Food Chain implementation using .NET 8 microservices with Kafka and Redis and background Hang fire services. This project created for as a real world project with some smoll companys hosted in AWS or Docker enviornment. 
 Front end run in Mud Balzor Frame work use razor Tags @ ...
 
-<img width="1916" height="952" alt="Screenshot 2026-04-24 163920" src="https://github.com/user-attachments/assets/43bd8e7e-aa83-4210-a56a-85a3ab456d56" />
+<img width="1253" height="857" alt="Screenshot 2026-04-26 133523" src="https://github.com/user-attachments/assets/a18e31b9-204c-49ba-abf8-3559777a8902" />
+
+Project Services
+
+<img width="561" height="518" alt="image" src="https://github.com/user-attachments/assets/635d0dc9-4a5d-45cb-aa81-ed8938e745a8" />
+Custommer Model
+
+<img width="1882" height="932" alt="image" src="https://github.com/user-attachments/assets/4084037d-0eeb-4954-aee8-4eb34e7291ef" />
+
+Item Model
+
+<img width="1877" height="900" alt="image" src="https://github.com/user-attachments/assets/9e5f2bfb-0325-4454-bc2f-acf264b928bc" />
+
+
+Customer Service Context Class
+
+<img width="1851" height="855" alt="image" src="https://github.com/user-attachments/assets/2a6453f6-96f1-46bc-9dcc-957441d92783" />
+
+Fast Food Store Item Service Context Class
+
+<img width="1917" height="937" alt="image" src="https://github.com/user-attachments/assets/3cd849fc-4fd8-4122-8e1d-8f2f612c0de0" />
+Transection service Context Class
+
+<img width="1853" height="902" alt="image" src="https://github.com/user-attachments/assets/cbee2a74-9dab-44e4-978f-1eb843660204" />
