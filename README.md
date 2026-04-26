@@ -4,6 +4,11 @@ Front end run in Mud Balzor Frame work use razor Tags @ ...
 
 <img width="1253" height="857" alt="Screenshot 2026-04-26 133523" src="https://github.com/user-attachments/assets/a18e31b9-204c-49ba-abf8-3559777a8902" />
 
+Host Services
+
+<img width="1271" height="302" alt="image" src="https://github.com/user-attachments/assets/0d1c2a72-5f64-4942-a356-5bdffe64333b" />
+
+
 Project Services
 
 <img width="561" height="518" alt="image" src="https://github.com/user-attachments/assets/635d0dc9-4a5d-45cb-aa81-ed8938e745a8" />
