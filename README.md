@@ -2,7 +2,7 @@
 This is Fast Food Chain implementation using .NET 8 microservices with Kafka and Redis and background Hang fire services. This project created for as a real world project with some smoll companys hosted in AWS or Docker enviornment. 
 Front end run in Mud Balzor Frame work use razor Tags @ ...
 
-<img width="1253" height="857" alt="Screenshot 2026-04-26 133523" src="https://github.com/user-attachments/assets/a18e31b9-204c-49ba-abf8-3559777a8902" />
+<img width="1232" height="855" alt="image" src="https://github.com/user-attachments/assets/327c2cf3-732c-4a37-b24d-b55a5300f578" />
 
 Host Services
 
@@ -33,4 +33,7 @@ Transection service Context Class
 <img width="1853" height="902" alt="image" src="https://github.com/user-attachments/assets/cbee2a74-9dab-44e4-978f-1eb843660204" />
 relation Shppips with in services
 <img width="658" height="647" alt="service" src="https://github.com/user-attachments/assets/208f6745-7922-421a-a23e-88fdeec316f5" />
+
+DataBase 
+<img width="662" height="847" alt="Screenshot 2026-04-28 140935" src="https://github.com/user-attachments/assets/08f4744e-7e03-4a91-8c6b-00b590ff4337" />
 
