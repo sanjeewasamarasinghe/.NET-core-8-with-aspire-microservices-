@@ -1,5 +1,5 @@
 # .NET-core-8-with-aspire-microservices-
-This is Fast Food Chain implementation using .NET 8 microservices with massage broker and  cache and background  services. This project created for as a real world project with some smoll companys hosted in AWS or Docker enviornment. 
+This is Fast Food Chain implementation using .NET 8 microservices with message broker and  cache and background  services. This project created for as a real world project with some smoll companys hosted in AWS or Docker enviornment. 
 Front end run in Mud Balzor Frame work use razor Tags @ ...
 
 <img width="1232" height="855" alt="image" src="https://github.com/user-attachments/assets/327c2cf3-732c-4a37-b24d-b55a5300f578" />
